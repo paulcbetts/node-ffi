@@ -1,11 +1,11 @@
 {
-  "name": "ffi",
-  "version": "1.2.7",
+  "name": "ffi-atom-shell",
+  "version": "3.0.0",
   "authors": [
     "Rick Branson",
     "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)"
   ],
-  "description": "A foreign function interface (FFI) for Node.js",
+  "description": "A foreign function interface (FFI) for Node.js (hacked for Atom Shell but this will go away soon)",
   "keywords": [
     "foreign",
     "function",
