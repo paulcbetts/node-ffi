@@ -1,6 +1,6 @@
 {
   "name": "ffi-atom-shell",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "authors": [
     "Rick Branson",
     "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)"
@@ -25,7 +25,7 @@
     "debug": "~1.0.1",
     "ref": "*",
     "ref-struct": "*",
-    "nan": "*"
+    "nan": "~1.7.0"
   },
   "devDependencies": {
     "mocha": "*",
